@@ -1,0 +1,15 @@
+raw: 0.9
+endpoint: GET
+metadata:
+  title: Hello pet
+  description: Hello pet example
+  tags:
+    - hellopet
+code: rql
+declaration: hello_pet
+codeFile: hello-pet.rql
+format: json
+security:
+  public: true
+computeClass: normal
+enabled: true
