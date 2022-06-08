@@ -11,6 +11,4 @@ hello_name(name: string) := {
 "Hello "+name+"!"
 };
 
-hello_pet(breed: string) := {
-"Hello "+breed+"!"
-};
+
