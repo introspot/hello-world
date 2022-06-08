@@ -1,0 +1,3 @@
+hello_pet(breed: string) := {
+"Hello "+breed+"!"
+};
